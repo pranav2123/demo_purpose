@@ -1,0 +1,11 @@
+There is one rule
+that if there is 
+some code in master 
+branch and if we
+create branch from
+that master branch
+then the code will
+be copied to that branch
+but if we make any changes 
+to the branch then it will
+not reflect/pass to master
